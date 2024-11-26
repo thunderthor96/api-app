@@ -1,3 +1,9 @@
+![Screenshot at 2024-11-25 22-26-14](https://github.com/user-attachments/assets/8a220462-a7ce-47f0-b1e0-d30447fc4600)
+
+npm install react tailwind axios
+
+npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
